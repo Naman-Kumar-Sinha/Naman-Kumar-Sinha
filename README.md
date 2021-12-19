@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naman
 - 👀 I’m interested in everything code especially javascript.
-- 🌱 I’m currently learning javascript. You know you can learn javascript, but mastering it is a different game altogether.
+- 🌱 I’m currently learning everything code. It never ends and always fascinate me.
 - 💞️ I’m looking to collaborate on anything code again.
 - 📫 How to reach me - Tag me.
 
