@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naman-Kumar-Sinha
+- 👋 Hi, I’m Naman
 - 👀 I’m interested in everything code especially javascript.
 - 🌱 I’m currently learning javascript. You know you can learn javascript, but mastering it is a different game altogether.
 - 💞️ I’m looking to collaborate on anything code again.
